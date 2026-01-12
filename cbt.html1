@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HGAL Academy CBT</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: #f4f6fb;
+      font-family: Arial, sans-serif;
+    }
+
+    .cbt-container {
+      width: 100%;
+      height: 100vh;
+      border: none;
+      overflow: hidden;
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+
+  <iframe 
+    src="https://script.google.com/macros/s/AKfycby54ieK8h085Zj5OrShnfB5g8CawB_gh2qG7Dy3usV2Q-Zy25sTz6dOYezbHVoTt3z4Tg/exec"
+    class="cbt-container"
+    allowfullscreen>
+  </iframe>
+
+</body>
+</html>
